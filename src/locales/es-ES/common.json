@@ -1,0 +1,17 @@
+{
+  "extensionDescription": "Complexity - Perplexity AI Supercharged",
+  "sidebar": {
+    "supporterMessage": "¡Por favor, considere convertirse en <emphasis>Patrocinador</emphasis> para mantener vivo el proyecto!"
+  },
+  "sponsorDialog": {
+    "title": "¡Complexity necesita tu ayuda!",
+    "description": "Mantener Complexity requiere una cantidad significativa de tiempo y esfuerzo. ¡Muestra tu aprecio apoyando su desarrollo y ayudando a mantenerlo completamente gratuito y de código abierto para toda la comunidad!",
+    "donation": {
+      "title": "💖 Hacer una donación"
+    },
+    "sponsorship": {
+      "title": "🌟 ¿Tienes una oferta para un patrocinio a largo plazo?",
+      "contactEmail": "Contactar por correo electrónico"
+    }
+  }
+}
